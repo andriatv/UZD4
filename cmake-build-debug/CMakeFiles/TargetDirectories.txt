@@ -1,0 +1,3 @@
+C:/Users/Lenovo/CLionProjects/UZD4/cmake-build-debug/CMakeFiles/UZD4.dir
+C:/Users/Lenovo/CLionProjects/UZD4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/CLionProjects/UZD4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

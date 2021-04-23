@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lenovo/CLionProjects/UZD4/Component.h
+
+C:/Users/Lenovo/CLionProjects/UZD4/Composite.cpp
+Composite.h
+C:/Users/Lenovo/CLionProjects/UZD4/Composite.h
+Component.h
+C:/Users/Lenovo/CLionProjects/UZD4/Component.h
+iostream
+-
+
+C:/Users/Lenovo/CLionProjects/UZD4/Composite.h
+Component.h
+C:/Users/Lenovo/CLionProjects/UZD4/Component.h
+iostream
+-
+vector
+-
+
+C:/Users/Lenovo/CLionProjects/UZD4/Leaf.h
+Component.h
+C:/Users/Lenovo/CLionProjects/UZD4/Component.h
+iostream
+-
+
+C:/Users/Lenovo/CLionProjects/UZD4/main.cpp
+iostream
+-
+Leaf.h
+C:/Users/Lenovo/CLionProjects/UZD4/Leaf.h
+Composite.h
+C:/Users/Lenovo/CLionProjects/UZD4/Composite.h
+
